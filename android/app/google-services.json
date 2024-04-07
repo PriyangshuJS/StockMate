@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320030770531",
+    "project_id": "stockmate-6a06e",
+    "storage_bucket": "stockmate-6a06e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320030770531:android:4f59dd16212e7ce6617f56",
+        "android_client_info": {
+          "package_name": "com.example.stockmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu_mwMWRgZTKW33QON6h_-fKh56xdDKv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
